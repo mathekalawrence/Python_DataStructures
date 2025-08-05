@@ -13,4 +13,5 @@ print("Ward 4a:", ward_4a)
 
 #Discharging a patient
 discharged = ward_4a.pop(1)
+discharged = ward_4a.pop(-1)
 print("Ward_4a:", ward_4a)
