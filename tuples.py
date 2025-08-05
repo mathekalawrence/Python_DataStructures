@@ -13,4 +13,4 @@ print("Exit near Lobby:", emergency_exits[0][0])
 try:
     emergency_exits[1] = ("Lab Zone", 2, 33.1)
 except TypeError as e:
-    print("Security Alert!", e)
+    print("Security Alert!",)
