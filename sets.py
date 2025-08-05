@@ -12,3 +12,4 @@ print("Sterile Lab Equipment:", sterile_lab_equipment)
 #Concantinating/ combining
 all_sterile = sterile_lab_equipment | sterile_er_equipment
 print("All sterile Equipment:", all_sterile)
+print("All contaminated items:", contaminated)
