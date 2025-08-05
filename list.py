@@ -10,3 +10,7 @@ print("Ward 4a:", ward_4a)
 
 #append- at the end of the list
 #insert- to a certain index
+
+#Discharging a patient
+discharged = ward_4a.pop(1)
+print("Ward_4a:", ward_4a)
